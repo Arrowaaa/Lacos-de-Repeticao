@@ -1,0 +1,7 @@
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\bin\Debug\Lacos de Repeticao 2.exe.config
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\bin\Debug\Lacos de Repeticao 2.exe
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\bin\Debug\Lacos de Repeticao 2.pdb
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\obj\Debug\Lacos de Repeticao 2.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\obj\Debug\Lacos de Repeticao 2.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\obj\Debug\Lacos de Repeticao 2.exe
+C:\Users\edilson.csilva10\source\repos\Atividade\Lacos de Repeticao 2\Lacos de Repeticao 2\obj\Debug\Lacos de Repeticao 2.pdb
