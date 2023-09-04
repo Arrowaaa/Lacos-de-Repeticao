@@ -15,7 +15,7 @@ namespace Lacos_de_Repeticao_4
 
 
                 Random random = new Random();
-                int numeroAleatorio = random.Next(1, 101);
+                int chutes = random.Next(1, 101);
                 int tentativas = 0;
                 bool acertou = false;
 
@@ -28,12 +28,12 @@ namespace Lacos_de_Repeticao_4
                     int palpite = int.Parse(Console.ReadLine());
                     tentativas++;
 
-                    if (palpite == numeroAleatorio)
+                    if (palpite == chutes)
                     {
-                        Console.WriteLine("Parabéns! Você acertou o número " + numeroAleatorio +" em " + tentativas +" tentativas.");
+                        Console.WriteLine("Parabéns! Você acertou o número " + chutes +" em " + tentativas +" tentativas.");
                         acertou = true;
                     }
-                    else if (palpite < numeroAleatorio)
+                    else if (palpite < chutes)
                     {
                         Console.WriteLine("Tente novamente. Esse Seu palpite É baixo.");
                     }
